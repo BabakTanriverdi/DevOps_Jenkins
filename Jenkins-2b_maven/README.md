@@ -1,4 +1,4 @@
-# Hands-on Jenkins-03: Java and Maven Jobs in Jenkins
+# Hands-on Jenkins-02b: Java and Maven Jobs in Jenkins
 
 The purpose of this hands-on training is to learn how to install Java and Maven on the Jenkins Server and configure Maven/Java Jobs.
 
