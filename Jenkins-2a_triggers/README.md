@@ -1,4 +1,4 @@
-# Hands-on Jenkins-02: Triggering Jenkins Jobs
+# Hands-on Jenkins-02a: Triggering Jenkins Jobs
 
 The purpose of this hands-on training is to learn how to trigger Jenkins jobs in different ways.
 
