@@ -1,4 +1,4 @@
-# Hands-on Jenkins-04: Install & Configure Tomcat on Amazon Linux 2023 AWS EC2 Instances
+# Hands-on Jenkins-03a: Install & Configure Tomcat on Amazon Linux 2023 AWS EC2 Instances
 
 The purpose of this hands-on training is to install & configure the Tomcat server for staging and production environments.
 

@@ -1,4 +1,4 @@
-# Hands-on Jenkins-05: Deploying Application to Staging/Production Environment with Jenkins
+# Hands-on Jenkins-03b: Deploying Application to Staging/Production Environment with Jenkins
 
 The purpose of this hands-on training is to learn how to deploy applications to the Staging/Production Environment with Jenkins.
 
